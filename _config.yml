@@ -3,21 +3,21 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
+name: Shayan Khorsandi
+title: Software Engineer | Research Scientist
 email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+website: www.abradat.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  abradat
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: thisishayan
+linkedin_username: sh-khorsandi
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
@@ -41,10 +41,9 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Gaming; I am a huge fan of [Hidetaka Miyazaki's](https://en.wikipedia.org/wiki/Hidetaka_Miyazaki) games.
+   - Running
+   - Movies
 
 # Footer
 footer_show_references: true
