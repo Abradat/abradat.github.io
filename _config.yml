@@ -5,7 +5,8 @@ favicon: images/favicon.ico
 # Personal info
 name: Shayan Khorsandi
 title: Software Engineer | Research Scientist
-email: brett.h@email.co.uk
+email: shn.khorsandi@gmail.com
+phone: +98 - 912 084 3547
 website: www.abradat.github.io
 
 # Social links
@@ -20,14 +21,19 @@ linkedin_username: sh-khorsandi
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
 
+additional_links:
+  - title: CV
+    icon: fa-twitter
+    url: www.google.com
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile_2.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  My research interest are: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
+darkmode: true
 # Projects Section
 # projects_title: Projects
 
@@ -43,7 +49,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Gaming; I am a huge fan of [Hidetaka Miyazaki's](https://en.wikipedia.org/wiki/Hidetaka_Miyazaki) games.
    - Running
-   - Movies: Anime
+   - Movies: Anime test
 
 # Footer
 footer_show_references: true
