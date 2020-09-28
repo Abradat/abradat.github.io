@@ -21,19 +21,22 @@ linkedin_username: sh-khorsandi
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
 
-additional_links:
-  - title: CV
-    icon: fa-twitter
-    url: www.google.com
+#additional_links:
+#  - title: CV
+#    icon: fa-twitter
+#    url: www.google.com
 # About Section
 # about_title: About Me
 about_profile_image: images/profile_2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Shayan, and I'm a fresh B.Sc. graduate in computer engineering from Iran University of Science and Technology. Right now, I am a software engineer at Informatics Services Corporation (ISC).
+  Also, I was research assistant at Bio-Inspired System Design lab under supervison of [Prof. Soroush Sadeghnejad](https://www.linkedin.com/in/soroush-sadeghnejad-a13aa888/) in Amirkabir University of Technology.
+  Before that I was research assistant at Robotics lab under supervision of [Prof. Mohsen Bahrami](https://aut.ac.ir/cv/2297/Mohsen%20Bahrami) at Amirkabir University of Technology.
 
-  My research interest are: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  My research interests are <mark>Software Engineering</mark>, <mark>Human-Computer Interaction</mark> , and applications of <mark>Machine Learning</mark> in these areas.
 
-darkmode: true
+  My <mark>CV</mark> is available through [here](www.google.com).
+darkmode: false
 # Projects Section
 # projects_title: Projects
 
