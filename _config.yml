@@ -29,16 +29,16 @@ linkedin_username: sh-khorsandi
 # about_title: About Me
 about_profile_image: images/profile_2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Shayan, and I'm a fresh B.Sc. graduate in computer engineering from Iran University of Science and Technology. Right now, I am a software engineer at Informatics Services Corporation (ISC).
-  Also, I was research assistant at Bio-Inspired System Design lab under supervison of [Prof. Soroush Sadeghnejad](https://www.linkedin.com/in/soroush-sadeghnejad-a13aa888/) in Amirkabir University of Technology.
-  Before that I was research assistant at Robotics lab under supervision of [Prof. Mohsen Bahrami](https://aut.ac.ir/cv/2297/Mohsen%20Bahrami) at Amirkabir University of Technology.
-
+  Hi, my name’s Shayan, and I’ve recently graduated with a Bachelor of Science in Computer Engineering from Iran University of Science and Technology. Right now, I am a software engineer at Informatics Services Corporation (ISC). 
+  I was a research assistant at the Bio-Inspired System Design lab under the supervision of [Prof. Soroush Sadeghnejad](https://www.linkedin.com/in/soroush-sadeghnejad-a13aa888/) in the Amirkabir University of Technology. 
+  Before that, I was a research assistant at the Robotics lab under the supervision of [Prof. Mohsen Bahrami](https://aut.ac.ir/cv/2297/Mohsen%20Bahrami) at the Amirkabir University of Technology.
+  
   My research interests are <mark>Software Engineering</mark>, <mark>Human-Computer Interaction</mark> , and applications of <mark>Machine Learning</mark> in these areas.
 
-  My <mark>CV</mark> is available through [here](www.google.com).
-darkmode: false
+# My <mark>CV</mark> is available through [here](https://drive.google.com/file/d/1LR-s-f8XEQCjyPmTnlSGrYSpq_axUVro/view?usp=sharing).
+darkmode: never
 # Projects Section
-# projects_title: Projects
+projects_title: Projects
 
 # Experience Section
 # experience_title: Experience
@@ -49,10 +49,10 @@ darkmode: false
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  Alongside my academic and professional life, some of my hobbies are:
    - Gaming; I am a huge fan of [Hidetaka Miyazaki's](https://en.wikipedia.org/wiki/Hidetaka_Miyazaki) games.
    - Running
-   - Movies: Anime test
+   - Movies
 
 # Footer
 footer_show_references: true

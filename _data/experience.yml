@@ -9,26 +9,26 @@
     I am a software engineer in the "National Payment Systems Development" group. Nowadays, I am engaged in two national banking projects, 
     Central Securities Depository (CSD)and Iranian Instant Payment (IIP).
 
-    I develop back-end services mainly through <mark>Spring Boot</mark> and <mark>Spring frameworks</mark> based on microservice and monolithic
-    architectures. Also, I develop front-end applications with <mark>Angular</mark> framework. In terms of DevOps, I am responsible for 
-    <mark>dockerizing</mark> our services and using <mark>Jenkins</mark> for CI/CD.
+    I develop back-end services mainly through **Spring Boot** and **Spring frameworks** based on microservice and monolithic
+    architectures. Also, I develop front-end applications with **Angular** framework. In terms of DevOps, I am responsible for 
+    **dockerizing** our services and using **Jenkins** for CI/CD.
     
 - layout: left
   company: Bio-Inspired System Design Lab
   link: autman.aut.ac.ir
   job_title: Research Assistant
-  dates: June 2016 - February 2020
+  dates: Amirkabir University of Technology<br>June 2016 - February 2020
   quote: 
   description: | # this will include new lines to allow paragraphs
     I was mainly responsible for solving the Robocup's competition Roll and Kick challenge. We designed a method for predicting
-    ball's trajectory by combining <mark>k-NN Regression</mark> and <mark>Autoregression</mark> methods. Also, I developed Motion Editor, Offset Tuner,
+    ball's trajectory by combining **k-NN Regression** and **Autoregression** methods. Also, I developed Motion Editor, Offset Tuner,
     and Walk Tuner softwares for our teen-size humanoid robots and Iranian standard platform robot, Kiarash. In addition, I developed, modularized, 
     and migrated our codes to the ROS platform.
 - layout: left
   company: Robotics Lab
   job_title: Research Assistant
-  dates: October 2013 - July 2014
+  dates: Amirkabir University of Technology<br>October 2013 - July 2014
   quote: 
   description: | # this will include new lines to allow paragraphs
-    I got deeper into robotics and artificial intelligence concepts by researching on <mark>Q-Learning</mark> method and developing
-    the stand-up motion for our humanoid robot based on the <mark>ROS</mark> platform. 
+    I got deeper into robotics and artificial intelligence concepts by researching on **Q-Learning** method and developing
+    the stand-up motion for our humanoid robot based on the **ROS** platform. 

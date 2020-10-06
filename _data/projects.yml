@@ -1,8 +1,103 @@
-- layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+- layout: top
+  # name: Central Securities Depository (CSD) V2
+  dates: Due to policies, I am not able to provide code that is being used as production at Informatics Services Corporation. However, I have provided sample ones which I have implemented during the development. 
+  # description: | # this will include new lines to allow paragraphs
+- layout: top
+  name: Central Securities Depository (CSD) V2
+  dates: Informatics Services Corporation, May 2020 - Present 
   description: | # this will include new lines to allow paragraphs
-    I started this projects as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    A new version of Central Bank of Iran’s CSD system. The project is based on the **monolithic** architecture. As a member of team, I am reponsible for:
+    - Back-End services development based on **Spring Boot** and **Spring** frameworks.
+    - Migrate the previous admin dashboard to a new one based on **Angular** framework.
+
+- layout: top
+  name: Iranian Instant Payment (IIP)
+  # link: github.com/sproogen
+  dates: Informatics Services Corporation, August 2019 - Present 
+  description: | # this will include new lines to allow paragraphs
+    IIP is Central Bank of Iran’s newest inter-bank payment system. IIP services are available all-around-the clock and should result in the immediate or close to immediate crediting of the Beneficiary’s account.
+    The project is based on **microservice** architecture. As a member of team, I:
+    - Developed a **Socket.IO** client based on Spring Boot for pre-defined communication between IIP and consumer banks. The client receives from and send messages to consumer banks using **IBM MQ** and communicates with Socket.IO server.
+    - Developed a terminal for real-time communication between the Angular application and the server's command line using **WebSocket** and **Xterm.js**.
+    - **Zuul** gateway implementation for receving messages from clients based on REST endpoints and delivering them to destination services using **Apache Kafka**. For service discovery, **Eureka** server is used. [`[code]`](https://github.com/Abradat/inbound-gateway)
+
+- layout: top
+  name: Central Securities Depository (CSD) V1
+  dates: Informatics Services Corporation, August 2018 - August 2019 
+  description: | # this will include new lines to allow paragraphs
+    Central Bank of Iran’s service for providing inter-bank security market and communication with Tehran Exchange Market. The project was implemented based on **microservice** architecture. During the development, I:
+    - Developed back-end services based on **Spring Boot** and **Spring** frameworks.
+    - Developed **Angular** application components based on material design. 
+    - Implemented microservice architecture common issues including:
+      - Orchestration-based **Saga** pattern for managing distributed transactions. [`[code]`](https://github.com/Abradat/microservice-saga)
+      - **Redis Sentinel** for automatic failover, monitoring, and notification service. [`[code]`](https://github.com/Abradat/redis-sentinel)
+      - **IBM MQ** messaging [`[code]`](https://github.com/Abradat/microservice-mq-messaging) and **Apache Kafka** streaming [`[code]`](https://github.com/Abradat/microservice-kafka-messaging).
+
+- layout: top
+  name: AUTMan Teen Size Humanoid Robot
+  dates: Bio-Inspired System Design Lab
+  description: | # this will include new lines to allow paragraphs
+    As a member of AUTMan team, I developed:
+    - **Ball Trajectory Predictor**: Intented for solving **Robocup**'s humanoid robots league's roll and kick challenge. Implemented in **Python**. Simulation's data captured from **ROS** platform's simulator
+    **Gazebo**. [`[code]`](https://github.com/Abradat/ball-trajectory-predictor) [`[Paper]`](https://www.researchgate.net/publication/336798460_Ball_Trajectory_Prediction_for_Humanoid_Robots_Combination_of_k-NN_Regression_and_Autoregression_Methods)
+    - **Motion Editor**: a **PyQt** application for monitoring and configurating **Herkulex** servo motors and motion generation using pre-defined sequences. [`[code]`](https://github.com/Abradat/MotionEditor-py3)
+    - **Walk Tuner** [`[code]`](https://github.com/Abradat/WalkTuner-py3) and **Offset Tuner**[`[code]`](https://github.com/Abradat/OffsetTuner-py3) PyQt applications for walking calibration. Communication with robot is done using **Arduino** boards.
+
+- layout: left
+  name: Unity Game with Hand Gesture Recognition
+  dates: Fall 2019
+  # github: https://github.com/Abradat/coco-unity
+  description: | # this will include new lines to allow paragraphs
+    A 2D puzzle game written in **Unity** game engine, focused on guessing words by connecting letters together. 
+    Player can interact with the game either by matching the letters via mouse (or touch screen) or using pre-defined hand gestures that is recognized by image processing algorithm written in **OpenCV** framework. Game and image processing programs communicate through **WebSocket**. [`[code]`](https://github.com/Abradat/coco-unity)
+
+- layout: left
+  name: Linux Kernel Module
+  dates: Fall 2019
+  # github: https://github.com/Abradat/coco-unity
+  description: | # this will include new lines to allow paragraphs
+    Linux kernel module which hooks read and write system calls usign **ftrace** and performs encrypt/decrypt actions with **ROT13**. [`[code]`](https://github.com/Abradat/kernel-hook-module)
+
+- layout: left
+  name: English to Persian Subtitle Translation
+  dates: Spring 2018
+  # github: https://github.com/Abradat/coco-unity
+  description: | # this will include new lines to allow paragraphs
+    A Seq2Seq **LSTM** network to translate english to persian Subtitles. [`[code]`](https://github.com/Abradat/Machine-Translation)
+
+- layout: left
+  name: AUTCup Application
+  dates: Winter 2018 & Fall 2016
+  # github: https://github.com/Abradat/coco-unity
+  description: | # this will include new lines to allow paragraphs
+    AUTCup international competition's application for committee members in order to manage leagues, teams, scores, and notifying participants for two years:
+      - **2018**: a web application written in **Beego** framework (Go language). [`[code]`](https://github.com/Abradat/autcup2018-webapp)
+      - **2016**: **PyQt** offline application. (Python Language) [`[code]`](https://github.com/Abradat/AUTCUP2016Application)
+
+- layout: left
+  name: S&P Stock Index Prediction
+  dates: Fall 2017
+  description: | # this will include new lines to allow paragraphs
+    Implemented the prediction of S&P index by feed **forward neural networks** based on the **Tensorflow** framework. [`[code]`](https://www.github.com/abradat/stock-prediction)[`[Report]`](http://www.boute.ir/iust-ai-96/stock-prediction)
+
+- layout: left
+  name: Boxing with Q-Learning
+  dates: Fall 2017
+  # github: https://github.com/Abradat/coco-unity
+  description: | # this will include new lines to allow paragraphs
+    Implemented an agent learns how to box based on **Reinforcement Learning**. It is implemented in two phases. In the first phase, **Naive Q-Learning** is used. Then, the **Deep-Q Network** for improving the performance as the second phase.
+    [`[code]`](https://www.github.com/abradat/boxing-qlearning)
+
+- layout: left
+  name: Process Scheduler in NachOS
+  dates: Fall 2017
+  # github: https://github.com/Abradat/coco-unity
+  description: | # this will include new lines to allow paragraphs
+    Completing the implementation of NachOS schedulers (NachOS is an educational operating system.) [`[code]`](https://github.com/Abradat/Nachos_Operating_Systems_Course)
+
+- layout: left
+  name: Search Engine
+  dates: Spring 2016
+  # github: https://github.com/Abradat/coco-unity
+  description: | # this will include new lines to allow paragraphs
+    Implemented a search engine using the **Inverted Index algorithm**, and also A web-scrapper in Python, flask, SQLite & Scrapy. [`[code]`](https://github.com/Abradat/AP-SearchEngine)
