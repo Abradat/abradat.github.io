@@ -27,7 +27,7 @@ linkedin_username: sh-khorsandi
 #    url: www.google.com
 # About Section
 # about_title: About Me
-about_profile_image: images/profile_2.jpg
+about_profile_image: images/profile_4.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name’s Shayan, and I’ve recently graduated with a Bachelor of Science in Computer Engineering from Iran University of Science and Technology. Right now, I am a software engineer at Informatics Services Corporation (ISC). 
   I was a research assistant at the Bio-Inspired System Design lab under the supervision of [Prof. Soroush Sadeghnejad](https://www.linkedin.com/in/soroush-sadeghnejad-a13aa888/) in the Amirkabir University of Technology. 
