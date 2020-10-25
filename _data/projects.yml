@@ -28,7 +28,7 @@
     Central Bank of Iran’s service for providing inter-bank security market and communication with Tehran Exchange Market. The project was implemented based on **microservice** architecture. During the development, I:
     - Developed back-end services based on **Spring Boot** and **Spring** frameworks.
     - Developed **Angular** application components based on material design. 
-    - Implemented microservice architecture common issues including:
+    - Implemented microservice architecture patterns including:
       - Orchestration-based **Saga** pattern for managing distributed transactions. [`[code]`](https://github.com/Abradat/microservice-saga)
       - **Redis Sentinel** for automatic failover, monitoring, and notification service. [`[code]`](https://github.com/Abradat/redis-sentinel)
       - **IBM MQ** messaging [`[code]`](https://github.com/Abradat/microservice-mq-messaging) and **Apache Kafka** streaming [`[code]`](https://github.com/Abradat/microservice-kafka-messaging).
