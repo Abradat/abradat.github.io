@@ -50,7 +50,7 @@
   description: | # this will include new lines to allow paragraphs
     An application for crawling and saving recent news from CNN and recent tweets about Playstation 5 console. **Selenium** is used for crawling CNN and recent tweets are crawled using Twitter **Developer API**. 
     Crawled data is persisted into a **PostgreSQL** database. An angular application is used for presenting crawled data and requesting for re-crawl. Tweets' sentiments are analyzed by **Stanford Core NLP** and labeled in the angular application.
-    [`[code]`](https://github.com/Abradat/PS5-News)]
+    [`[code]`](https://github.com/Abradat/PS5-News)
 
 - layout: left
   name: Unity Game with Hand Gesture Recognition
