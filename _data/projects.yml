@@ -6,8 +6,10 @@
   name: Central Securities Depository (CSD) V2
   dates: Informatics Services Corporation, May 2020 - Present 
   description: | # this will include new lines to allow paragraphs
-    A new version of Central Bank of Iran’s CSD system. The project is based on the **monolithic** architecture. As a member of team, I am reponsible for:
+    A new version of Central Bank of Iran’s CSD system. The project is based on the **microservices** architecture. As a member of team, I am reponsible for:
     - Back-End services development based on **Spring Boot** and **Spring** frameworks.
+    - Implemented a non-blocking API gateway using **Spring Cloud Gateway** based on Netty.
+    - Secured services through **Keycloak** based on **OpenID Connect**.
     - Migrate the previous admin dashboard to a new one based on **Angular** framework.
 
 - layout: top
