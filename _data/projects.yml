@@ -44,6 +44,15 @@
     - **Walk Tuner** [`[code]`](https://github.com/Abradat/WalkTuner-py3) and **Offset Tuner**[`[code]`](https://github.com/Abradat/OffsetTuner-py3) PyQt applications for walking calibration. Communication with robot is done using **Arduino** boards.
 
 - layout: left
+  name: PS5 News Crawler
+  dates: Fall 2020
+  # github: https://github.com/Abradat/coco-unity
+  description: | # this will include new lines to allow paragraphs
+    An application for crawling and saving recent news from CNN and recent tweets about Playstation 5 console. **Selenium** is used for crawling CNN and recent tweets are crawled using Twitter **Developer API**. 
+    Crawled data is persisted into a **PostgreSQL** database. An angular application is used for presenting crawled data and requesting for re-crawl. Tweets' sentiments are analyzed by **Stanford Core NLP** and labeled in the angular application.
+    [`[code]`](https://github.com/Abradat/PS5-News)]
+
+- layout: left
   name: Unity Game with Hand Gesture Recognition
   dates: Fall 2019
   # github: https://github.com/Abradat/coco-unity
